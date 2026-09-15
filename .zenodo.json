@@ -1,0 +1,29 @@
+{
+  "title": "DR-SMAA reproducibility package: Distributionally Robust Stochastic Multicriteria Acceptability Analysis",
+  "upload_type": "software",
+  "description": "Code, synthetic inputs, frozen validation replications, public-source extraction/coding, and outputs supporting the DR-SMAA study and its frontier-AI-governance application.",
+  "creators": [
+    {
+      "name": "Mateos Caballero, Alfonso",
+      "orcid": "0000-0003-4764-6047",
+      "affiliation": "Department of Artificial Intelligence, Universidad Politécnica de Madrid"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "SMAA",
+    "distributionally robust optimization",
+    "multicriteria decision analysis",
+    "imprecise probabilities",
+    "AI governance",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/alfonsomateoscaballero/DR-SMAA",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

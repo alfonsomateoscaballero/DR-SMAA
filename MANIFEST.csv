@@ -1,0 +1,49 @@
+path,bytes,role
+.gitignore,71,documentation/metadata
+.zenodo.json,967,documentation/metadata
+CITATION.cff,766,documentation/metadata
+LICENSE.md,778,documentation/metadata
+LICENSES/CC-BY-4.0.txt,18657,documentation/metadata
+LICENSES/MIT.txt,1081,documentation/metadata
+README.md,3622,documentation/metadata
+data/contamination/directed_contamination_path.csv,19014,primary/input data
+data/contamination/random_contamination_replications.csv,351206,primary/input data
+data/governance/final_matrix_audit.csv,10351,primary/input data
+data/governance/policy_feature_coding.csv,3604,primary/input data
+data/governance/public_source_statistics.csv,5829,primary/input data
+data/synthetic/synthetic_parameters.json,1607,primary/input data
+docs/DATA_DICTIONARY.md,1810,documentation/metadata
+docs/LICENSE_GUIDANCE.md,599,documentation/metadata
+docs/PAPER_MAPPING.md,1046,documentation/metadata
+docs/REPRODUCIBILITY.md,1697,documentation/metadata
+environment/environment.yml,144,environment specification
+environment/requirements.txt,60,environment specification
+figures/Fig1_safety_violation_rate.png,96266,derived figure
+figures/Fig1_safety_violation_rate_regenerated.png,91168,derived figure
+figures/Fig2_accuracy_safety_tradeoff.png,111488,derived figure
+figures/Fig2_accuracy_safety_tradeoff_regenerated.png,96719,derived figure
+figures/Fig3_public_data_rank_intervals.png,78200,derived figure
+figures/Fig3_public_data_rank_intervals_regenerated.png,63748,derived figure
+figures/Fig4_feasibility_sensitivity.png,118376,derived figure
+figures/FigS1_oracle_disagreement_rate.png,126912,derived figure
+results/contamination/directed_contamination_summary.csv,338,derived result
+results/contamination/metrics_with_ci.csv,11460,derived result
+results/contamination/metrics_with_ci_archived.csv,11460,derived result
+results/contamination/publication_table_selected.csv,1539,derived result
+results/governance/after_safety_filter.csv,207,derived result
+results/governance/after_safety_filter_regenerated.csv,207,derived result
+results/governance/computed_numeric_matrix.csv,819,derived result
+results/governance/dr_smaa_results.csv,332,derived result
+results/governance/dr_smaa_results_regenerated.csv,332,derived result
+results/governance/feasibility_sensitivity.csv,627,derived result
+results/governance/feasibility_sensitivity_regenerated.csv,668,derived result
+results/governance/public_data_4x6_matrix.csv,721,derived result
+results/synthetic/car_pairwise.csv,176,derived result
+results/synthetic/nominal.csv,184,derived result
+results/synthetic/sar.csv,290,derived result
+results/synthetic/tv_results_corrected.csv,12463,derived result
+results/synthetic/wasserstein_cluster_aggregated.csv,1095,derived result
+src/01_synthetic_benchmark.py,4070,analysis code
+src/02_contamination_analysis.py,2576,analysis code
+src/03_ai_governance_publicdata.py,5165,analysis code
+src/run_all.py,336,analysis code

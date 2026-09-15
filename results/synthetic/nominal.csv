@@ -1,0 +1,5 @@
+alternative,nominal_first_rank,nominal_safety
+Acceleration,0.0,0.07636666666666667
+Fast + safeguards,0.6603333333333333,0.9824
+Conditional scaling,0.3396666666666667,1.0
+Pause,0.0,1.0

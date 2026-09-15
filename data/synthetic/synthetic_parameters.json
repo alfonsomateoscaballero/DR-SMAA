@@ -1,0 +1,119 @@
+{
+  "seed": 20260909,
+  "N": 30000,
+  "alternatives": [
+    "Acceleration",
+    "Fast + safeguards",
+    "Conditional scaling",
+    "Pause"
+  ],
+  "criteria_count": 6,
+  "tau": 0.02,
+  "alpha": 0.95,
+  "stress_distribution": {
+    "family": "Beta",
+    "a": 2.0,
+    "b": 3.2
+  },
+  "base_scores": [
+    [
+      0.98,
+      0.99,
+      0.88,
+      0.42,
+      0.28,
+      0.36
+    ],
+    [
+      0.92,
+      0.93,
+      0.86,
+      0.72,
+      0.62,
+      0.74
+    ],
+    [
+      0.68,
+      0.69,
+      0.73,
+      0.91,
+      0.88,
+      0.91
+    ],
+    [
+      0.28,
+      0.32,
+      0.38,
+      0.98,
+      0.98,
+      0.96
+    ]
+  ],
+  "stress_effect": [
+    [
+      -0.04,
+      -0.05,
+      -0.12,
+      -0.32,
+      -0.18,
+      -0.22
+    ],
+    [
+      -0.03,
+      -0.03,
+      -0.06,
+      -0.13,
+      -0.08,
+      -0.08
+    ],
+    [
+      -0.02,
+      -0.02,
+      -0.03,
+      -0.04,
+      -0.03,
+      -0.03
+    ],
+    [
+      -0.01,
+      -0.01,
+      -0.01,
+      -0.01,
+      -0.01,
+      -0.01
+    ]
+  ],
+  "criterion_noise_sd": 0.035,
+  "mean_weight": [
+    0.22,
+    0.2,
+    0.14,
+    0.18,
+    0.11,
+    0.15
+  ],
+  "dirichlet_concentration": 50,
+  "risk_base": [
+    0.01,
+    0.0035,
+    0.0018,
+    0.0007
+  ],
+  "risk_slope": [
+    0.09,
+    0.02,
+    0.01,
+    0.0035
+  ],
+  "risk_sd": [
+    0.0035,
+    0.001,
+    0.0006,
+    0.00025
+  ],
+  "cluster_aggregated_wasserstein": {
+    "H": 50,
+    "ground_cost": "absolute difference between normalized cluster mean stress",
+    "status": "sensitivity approximation, not exact unreduced-support Wasserstein event probability"
+  }
+}

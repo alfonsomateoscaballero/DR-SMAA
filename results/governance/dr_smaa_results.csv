@@ -1,0 +1,5 @@
+alternative_id,alternative,nominal_b1,tv_lower_eps_0.15,tv_upper_eps_0.15
+a1,Legal-minimum scaling,0.083778,0.0,0.23377799999999999
+a2,Developer-led responsible scaling,0.643706,0.493706,0.793706
+a3,Mandatory conditional scaling,0.272486,0.12248600000000001,0.42248600000000003
+a4,Temporary frontier scaling pause,3e-05,0.0,0.15003

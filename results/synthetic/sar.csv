@@ -1,0 +1,5 @@
+alternative,nominal_safety,SAR_status,SAR_TV
+Acceleration,0.07636666666666667,already_inadmissible_at_epsilon_0,
+Fast + safeguards,0.9824,finite,0.032400000000000095
+Conditional scaling,1.0,not_reached_under_fixed_support_reweighting,
+Pause,1.0,not_reached_under_fixed_support_reweighting,

@@ -1,5 +1,7 @@
 # DR-SMAA reproducibility package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22774719.svg)](https://doi.org/10.5281/zenodo.22774719)
+
 Reproducibility materials for **Distributionally Robust Stochastic Multicriteria Acceptability Analysis under Probability-Model Ambiguity: An Application to Frontier AI Governance**.
 
 ## What is authoritative
@@ -45,7 +47,7 @@ Third-party webpages/PDFs are **not redistributed** here unless their licenses e
 
 ## Citation and DOI
 
-Citation metadata are provided in `CITATION.cff`. A GitHub release can be archived through Zenodo to mint a DOI; the DOI should be added to `CITATION.cff` after it has been issued.
+Citation metadata are provided in `CITATION.cff`. Version 1.0.0 is archived at Zenodo under DOI [`10.5281/zenodo.22774719`](https://doi.org/10.5281/zenodo.22774719).
 
 ## License
 

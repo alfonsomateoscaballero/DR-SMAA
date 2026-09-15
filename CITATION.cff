@@ -4,11 +4,13 @@ title: "DR-SMAA reproducibility package"
 type: software
 version: 1.0.0
 date-released: 2026-09-15
+doi: "10.5281/zenodo.22774719"
 authors:
   - family-names: "Mateos Caballero"
     given-names: "Alfonso"
     orcid: "https://orcid.org/0000-0003-4764-6047"
 repository-code: "https://github.com/alfonsomateoscaballero/DR-SMAA"
+url: "https://doi.org/10.5281/zenodo.22774719"
 preferred-citation:
   type: article
   title: "Distributionally Robust Stochastic Multicriteria Acceptability Analysis under Probability-Model Ambiguity: An Application to Frontier AI Governance"

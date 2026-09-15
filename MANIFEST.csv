@@ -1,11 +1,11 @@
 path,bytes,role
 .gitignore,71,documentation/metadata
 .zenodo.json,967,documentation/metadata
-CITATION.cff,766,documentation/metadata
+CITATION.cff,844,documentation/metadata
 LICENSE.md,778,documentation/metadata
 LICENSES/CC-BY-4.0.txt,18657,documentation/metadata
 LICENSES/MIT.txt,1081,documentation/metadata
-README.md,3622,documentation/metadata
+README.md,3716,documentation/metadata
 data/contamination/directed_contamination_path.csv,19014,primary/input data
 data/contamination/random_contamination_replications.csv,351206,primary/input data
 data/governance/final_matrix_audit.csv,10351,primary/input data
